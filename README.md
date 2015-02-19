@@ -37,3 +37,14 @@ This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 > Here's some example code:
 > 
 >     return shell_exec("echo $input | $markdown_script");
+
+
+*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
+
+# header
